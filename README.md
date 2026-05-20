@@ -1,7 +1,7 @@
 # Hi, I'm Tyra Miles — Senior Technical Writer
 > I write API docs that reduce support tickets, not just word counts.
 
-I specialize in **REST API reference documentation**, **developer onboarding**, and **docs-as-code** for billing infrastructure and SaaS platforms. 7 years turning complex systems into documentation engineers actually use. Recently writing about AI-augmented documentation workflows and prompt engineering for technical content.
+I specialize in **REST API reference documentation**, **developer onboarding**, and **docs-as-code** for billing infrastructure and SaaS platforms. 7 years turning complex systems into documentation engineers actually use. Recently writing about AI-augmented documentation workflows and editorial systems for developer content.
 
 ---
 
@@ -22,6 +22,7 @@ I specialize in **REST API reference documentation**, **developer onboarding**, 
 
 | Repo | What it is |
 |---|---|
+| [`editorial-systems-developer-content`](https://github.com/TyraTechWriter/editorial-systems-developer-content) | Framework for building developer content programs that compound (2025) |
 | [`ai-augmented-docs-playbook`](https://github.com/TyraTechWriter/REPLACE-WITH-ACTUAL-REPO-NAME) | Practical playbook on integrating AI tools into documentation workflows (2025) |
 | [`tyra-miles-portfolio`](https://github.com/TyraTechWriter/tyra-miles-portfolio) | Portfolio site — case studies, writing samples, live demos |
 | [`api-documentation-samples`](https://github.com/TyraTechWriter/api-documentation-samples) | Real writing samples: OpenAPI spec, quickstart, error reference |
