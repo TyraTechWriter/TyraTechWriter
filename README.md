@@ -1,8 +1,7 @@
 # Hi, I'm Tyra Miles — Senior Technical Writer
-
 > I write API docs that reduce support tickets, not just word counts.
 
-I specialize in **REST API reference documentation**, **developer onboarding**, and **docs-as-code** for billing infrastructure and SaaS platforms. 7 years turning complex systems into documentation engineers actually use.
+I specialize in **REST API reference documentation**, **developer onboarding**, and **docs-as-code** for billing infrastructure and SaaS platforms. 7 years turning complex systems into documentation engineers actually use. Recently writing about AI-augmented documentation workflows and prompt engineering for technical content.
 
 ---
 
@@ -23,6 +22,7 @@ I specialize in **REST API reference documentation**, **developer onboarding**, 
 
 | Repo | What it is |
 |---|---|
+| [`ai-augmented-docs-playbook`](https://github.com/TyraTechWriter/REPLACE-WITH-ACTUAL-REPO-NAME) | Practical playbook on integrating AI tools into documentation workflows (2025) |
 | [`tyra-miles-portfolio`](https://github.com/TyraTechWriter/tyra-miles-portfolio) | Portfolio site — case studies, writing samples, live demos |
 | [`api-documentation-samples`](https://github.com/TyraTechWriter/api-documentation-samples) | Real writing samples: OpenAPI spec, quickstart, error reference |
 | [`documentation-style-guide`](https://github.com/TyraTechWriter/documentation-style-guide) | Production-ready style guide built from scratch (adopted across 4 product lines) |
@@ -32,7 +32,7 @@ I specialize in **REST API reference documentation**, **developer onboarding**, 
 ## 🛠️ Stack
 
 **Doc tools:** OpenAPI 3.1 · Docusaurus · Mintlify · ReadMe.io · Postman  
-**Workflow:** Git · GitHub · Markdown · MDX · docs-as-code  
+**Workflow:** Git · GitHub · Markdown · MDX · docs-as-code · Claude · ChatGPT · GitHub Copilot  
 **Platforms:** Confluence · Notion · Intercom · Jira · Linear · Figma  
 **Scripting:** Python (lint automation, doc generation) · YAML · JSON
 
@@ -40,6 +40,6 @@ I specialize in **REST API reference documentation**, **developer onboarding**, 
 
 ## 📬 Let's talk
 
-Open to **senior and staff-level remote technical writing roles** in API documentation and developer experience.
+Open to **senior remote technical writing and content roles**, including API documentation, developer experience, and technical content for developer audiences. Available for full-time and contract engagements.
 
 🌐 [Portfolio](https://tyratechwriter.github.io/tyra-miles-portfolio/) · 📧 [tyratech23@gmail.com](mailto:tyratech23@gmail.com) · 📍 Downey, CA (Remote)
