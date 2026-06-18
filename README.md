@@ -22,20 +22,21 @@ I specialize in **REST API reference documentation**, **developer onboarding**, 
 
 | Repo | What it is |
 |---|---|
-| [`editorial-systems-developer-content`](https://github.com/TyraTechWriter/editorial-systems-developer-content) | Framework for building developer content programs that compound (2025) |
-| [`ai-augmented-docs-playbook`](https://github.com/TyraTechWriter/REPLACE-WITH-ACTUAL-REPO-NAME) | Practical playbook on integrating AI tools into documentation workflows (2025) |
-| [`tyra-miles-portfolio`](https://github.com/TyraTechWriter/tyra-miles-portfolio) | Portfolio site — case studies, writing samples, live demos |
+| [`agent-sdk-cookbook-demo`](https://github.com/TyraTechWriter/agent-sdk-cookbook-demo) | TypeScript + Python tool-calling agent cookbook with CI sample validation (2025) |
 | [`api-documentation-samples`](https://github.com/TyraTechWriter/api-documentation-samples) | Real writing samples: OpenAPI spec, quickstart, error reference |
 | [`documentation-style-guide`](https://github.com/TyraTechWriter/documentation-style-guide) | Production-ready style guide built from scratch (adopted across 4 product lines) |
+| [`tyra-miles-portfolio`](https://github.com/TyraTechWriter/tyra-miles-portfolio) | Portfolio site — case studies, writing samples, live demos |
+| [`editorial-systems-developer-content`](https://github.com/TyraTechWriter/editorial-systems-developer-content) | Framework for building developer content programs that compound (2025) |
 
 ---
 
 ## 🛠️ Stack
 
 **Doc tools:** OpenAPI 3.1 · Docusaurus · Mintlify · ReadMe.io · Postman  
-**Workflow:** Git · GitHub · Markdown · MDX · docs-as-code · Claude · ChatGPT · GitHub Copilot  
+**Workflow:** Git · GitHub · GitHub Actions · Markdown · MDX · docs-as-code · Claude · ChatGPT · GitHub Copilot  
+**Languages:** TypeScript · Python (lint automation, doc generation) · YAML · JSON  
 **Platforms:** Confluence · Notion · Intercom · Jira · Linear · Figma  
-**Scripting:** Python (lint automation, doc generation) · YAML · JSON
+**AI/LLM:** Claude API · Anthropic SDK · Agent frameworks · MCP servers · Tool-calling patterns
 
 ---
 
